@@ -5,4 +5,4 @@ def calculate_area(length, width):
 
 # Testing
 output = calculate_area(5, 10)
-print("The calculated area is:" output)
+print("The calculated area is:", output)
